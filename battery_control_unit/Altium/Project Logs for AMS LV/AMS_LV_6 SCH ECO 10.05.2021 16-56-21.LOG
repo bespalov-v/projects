@@ -1,0 +1,31 @@
+Replace Part C10 Cap 0.1µF (1206) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Cap 0.1µF (1206) from AMS_LV.SchLib
+Replace Part C11 Cap 0.1µF (1206) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Cap 0.1µF (1206) from AMS_LV.SchLib
+Replace Part C12 Cap 1µF (1206) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Cap 1µF (1206) from AMS_LV.SchLib
+Replace Part C13 Cap 1uF (0603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Cap 1uF (0603) from BRT_Components.SchLib
+Replace Part C17 Cap 0.1uF (0603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part C23 Cap 0.1uF (0603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part C24 Cap 0.1uF (0603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part D14 Diode Schottky [TO-220-3] in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Diode Schottky [TO-220-3] from AMS_LV.SchLib
+Replace Part DD1 LTC6810 in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with LTC6810 from LTC6810.SchLib
+Replace Part J1 Conn PLS-2 in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Conn PLS-2 from AMS_LV.SchLib
+Replace Part J3 Conn PLS-2 in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Conn PLS-2 from AMS_LV.SchLib
+Replace Part J5 Conn4x2 [MX150L] in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Conn4x2 [MX150L] from AMS_LV.SchLib
+Replace Part J8 Conn6x2 [Microfit] in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Conn6x2 [Microfit] from missing_components.schlib
+Replace Part J10 Conn12 in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Conn12 from AMS_LV.SchLib
+Replace Part J11 Conn12 in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Conn12 from AMS_LV.SchLib
+Replace Part J12 Conn12 in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Conn12 from AMS_LV.SchLib
+Replace Part J13 Conn12 in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Conn12 from AMS_LV.SchLib
+Replace Part R13 Res 100R (603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 100R (603) from AMS_LV.SchLib
+Replace Part R14 Res 100R (603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 100R (603) from AMS_LV.SchLib
+Replace Part R15 Res 100R (603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 100R (603) from AMS_LV.SchLib
+Replace Part R16 Res 100R (603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 100R (603) from AMS_LV.SchLib
+Replace Part R17 Res 100R (603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 100R (603) from AMS_LV.SchLib
+Replace Part R18 Res 100R (603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 100R (603) from AMS_LV.SchLib
+Replace Part R19 Res 100R (603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 100R (603) from AMS_LV.SchLib
+Replace Part R23 Res 10R (603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 10R (603) from AMS_LV.SchLib
+Replace Part R25 Res 100R (1206) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 100R (1206) from AMS_LV.SchLib
+Replace Part R27 Res 300R (603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 300R (603) from AMS_LV.SchLib
+Replace Part R41 Res 300R (603) in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Res 300R (603) from AMS_LV.SchLib
+Replace Part RL1 Relay 24V 6A in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Relay 24V 6A from BRT_Components.SchLib
+Replace Part U4 Optocupler [LTV-817S] in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with Optocupler [LTV-817S] from AMS_LV.SchLib
+Replace Part VD1 TVS Diode 26V [SMF26A] in F:\AMS-LV\AMS-LV\Altium\AMS_LV_6.SchDoc with TVS Diode 26V [SMF26A] from AMS_LV.SchLib

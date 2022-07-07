@@ -1,0 +1,25 @@
+Added Component: Designator=U5(TSSOP-16)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/max3232cse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/222/DOC000222323.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MAX3232CSE+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transceiver"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_2 Pin=U5-1
+Added Pin To Net: NetName=NetC16_2 Pin=U5-2
+Added Pin To Net: NetName=NetC14_1 Pin=U5-3
+Added Pin To Net: NetName=NetC17_2 Pin=U5-4
+Added Pin To Net: NetName=NetC17_1 Pin=U5-5
+Added Pin To Net: NetName=NetC18_2 Pin=U5-6
+Added Pin To Net: NetName=PC-CTS Pin=U5-7
+Added Pin To Net: NetName=PC-RTS Pin=U5-8
+Added Pin To Net: NetName=MCU-CTS Pin=U5-9
+Added Pin To Net: NetName=MCU-RTS Pin=U5-10
+Added Pin To Net: NetName=T1I Pin=U5-11
+Added Pin To Net: NetName=R1O Pin=U5-12
+Added Pin To Net: NetName=R1I Pin=U5-13
+Added Pin To Net: NetName=T1O Pin=U5-14
+Added Pin To Net: NetName=GND Pin=U5-15
+Added Pin To Net: NetName=+3.3V Pin=U5-16
+Added Member To Class: ClassName=UTC Member=Component U5 MAX3232  transceiver

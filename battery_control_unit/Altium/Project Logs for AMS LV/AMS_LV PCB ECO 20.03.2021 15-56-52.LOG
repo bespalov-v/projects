@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=+24V_IN Pin=J8-1
+Added Pin To Net: NetName=BAT V- Pin=J8-2
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R6 75R

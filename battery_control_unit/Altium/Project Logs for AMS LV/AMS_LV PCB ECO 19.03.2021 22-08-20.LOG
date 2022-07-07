@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=BAT V- Pin=J4-8
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 100R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Room: Name=AMS_LV_6

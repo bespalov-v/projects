@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=SD_in Pin=J4-1
+Removed Pin From Net: NetName=SD_out Pin=J4-2
+Removed Pin From Net: NetName=+24V_IN Pin=J4-5
+Removed Pin From Net: NetName=CAN_P Pin=J4-7
+Removed Pin From Net: NetName=CAN_N Pin=J4-8
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Added Component: Designator=J8(HEADER 2 XT30PW Male)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "AliExpress"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://ru.aliexpress.com/item/4000070113352.html?spm=a2g0o.productlist.0.0.39dd34bfyYuspa&algo_pvid=4d7d83f5-6270-4220-b100-9b5f13b0846d&algo_expid=4d7d83f5-6270-4220-b100-9b5f13b0846d-3&btsid=c67bc929-e3be-4af3-9fd9-25ac13ce4818&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "XT30PW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_P Pin=J4-1
+Added Pin To Net: NetName=CAN_N Pin=J4-2
+Added Pin To Net: NetName=BAT V- Pin=J4-5
+Added Pin To Net: NetName=SD_in Pin=J4-6
+Added Pin To Net: NetName=SD_out Pin=J4-7
+Added Pin To Net: NetName=+24V_IN Pin=J4-8
+Added Member To Class: ClassName=AMS_LV_6 Member=Component J8 XT30
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R1 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R2 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R3 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R4 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R5 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R7 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R8 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R9 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R10 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R11 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R12 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R13 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R14 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R15 100R

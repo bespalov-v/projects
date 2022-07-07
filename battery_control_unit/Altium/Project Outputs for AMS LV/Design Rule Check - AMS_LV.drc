@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : F:\AMS-LV\AMS-LV-internal_discharge\Altium\AMS_LV.PcbDoc
+Date     : 12.04.2021
+Time     : 19:21:35
+
+Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.125mm) (Max=10mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=35.000) (All)
+   Violation between Acute Angle Constraint: (5,627 < 35,000) Between Polygon Region (0 hole(s)) Bottom Layer And Via (20.7mm,56.5mm) from Top Layer to Bottom Layer (Angle = 5,627)
+   Violation between Acute Angle Constraint: (5,627 < 35,000) Between Polygon Region (0 hole(s)) Bottom Layer And Via (20.7mm,56.5mm) from Top Layer to Bottom Layer (Angle = 5,627)
+   Violation between Acute Angle Constraint: (5,627 < 35,000) Between Polygon Region (0 hole(s)) Bottom Layer And Via (24.1mm,49.4mm) from Top Layer to Bottom Layer (Angle = 5,627)
+   Violation between Acute Angle Constraint: (5,627 < 35,000) Between Polygon Region (0 hole(s)) Bottom Layer And Via (24.1mm,51.2mm) from Top Layer to Bottom Layer (Angle = 5,627)
+   Violation between Acute Angle Constraint: (5,627 < 35,000) Between Polygon Region (0 hole(s)) Bottom Layer And Via (32.1mm,58.7mm) from Top Layer to Bottom Layer (Angle = 5,627)
+Rule Violations :5
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.6mm) (Max=5.9mm) (IsPad)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+   Violation between Height Constraint: Component J4-MX150L (40.675mm,13.46mm) on Top Layer Actual Height = 33.103mm
+Rule Violations :1
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:06

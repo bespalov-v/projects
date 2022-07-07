@@ -1,0 +1,78 @@
+Change Component DesignItemId : Designator=Do Old DesignItemId=Diode Schottky (SMB) New DesignItemId=Diode Schottky (SMB) [SK54]
+Change Component DesignItemId : Designator=Rfb1 Old DesignItemId=Res 10k (0603) New DesignItemId=Res 62R (0603)
+Change Component Comment : Designator=Rfb1 Old Comment=10k New Comment=62R
+Change Component Designator: OldDesignator=Cb NewDesignator=Cb1
+Change Component Designator: OldDesignator=Co2 NewDesignator=Co3
+Change Component Designator: OldDesignator=Co3 NewDesignator=Co2
+Change Component Designator: OldDesignator=Din NewDesignator=Din1
+Change Component Designator: OldDesignator=Do1 NewDesignator=Do2
+Change Component Designator: OldDesignator=Do NewDesignator=Do1
+Change Component Designator: OldDesignator=Lo NewDesignator=Lo1
+Change Component Designator: OldDesignator=Udc NewDesignator=Udc1
+Change Component Description : Designator=Rfb1 Old Description=0.1W 0603 10k, 1% New Description=0.1W 0603 62R, 1%
+Change Component Library : Designator=Cb1 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Cin1 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Cin2 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Cin3 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Co1 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Co3 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Co2 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Din1 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Do2 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Do1 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Lo1 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Rfb1 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Rfb2 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change Component Library : Designator=Udc1 Old Library=BRT_Components.IntLib New Library=BRT_Components.SchLib
+Change component parameters: Designator = "Rfb1" ("Rfb1"); Footprint = "0603 Resistor"; UniqueID = "\LFSLPYIL" ("\LFSLPYIL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079611"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0603FR-0762RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCb1_1 Pin=Cb1-1
+Added Pin To Net: NetName=NetCb1_2 Pin=Cb1-2
+Added Pin To Net: NetName=GND Pin=Cin1-1
+Added Pin To Net: NetName=+24V Pin=Cin1-2
+Added Pin To Net: NetName=GND Pin=Cin2-1
+Added Pin To Net: NetName=+24V Pin=Cin2-2
+Added Pin To Net: NetName=GND Pin=Cin3-1
+Added Pin To Net: NetName=+24V Pin=Cin3-2
+Added Pin To Net: NetName=GND Pin=Co1-1
+Added Pin To Net: NetName=+5V Pin=Co1-2
+Added Pin To Net: NetName=GND Pin=Co2-1
+Added Pin To Net: NetName=+5V Pin=Co2-2
+Added Pin To Net: NetName=GND Pin=Co3-1
+Added Pin To Net: NetName=+5V Pin=Co3-2
+Added Pin To Net: NetName=GND Pin=Din1-1
+Added Pin To Net: NetName=+24V Pin=Din1-2
+Added Pin To Net: NetName=GND Pin=Do1-1
+Added Pin To Net: NetName=NetCb1_1 Pin=Do1-2
+Added Pin To Net: NetName=GND Pin=Do2-1
+Added Pin To Net: NetName=+5V Pin=Do2-2
+Added Pin To Net: NetName=NetCb1_1 Pin=Lo1-1
+Added Pin To Net: NetName=+5V Pin=Lo1-2
+Added Pin To Net: NetName=NetRfb1_1 Pin=Rfb1-1
+Added Pin To Net: NetName=+5V Pin=Rfb1-2
+Added Pin To Net: NetName=GND Pin=Rfb2-1
+Added Pin To Net: NetName=NetRfb1_1 Pin=Rfb2-2
+Added Pin To Net: NetName=NetCb1_2 Pin=Udc1-1
+Added Pin To Net: NetName=NetRfb1_1 Pin=Udc1-4
+Added Pin To Net: NetName=GND Pin=Udc1-6
+Added Pin To Net: NetName=+24V Pin=Udc1-7
+Added Pin To Net: NetName=NetCb1_1 Pin=Udc1-8
+Added Pin To Net: NetName=GND Pin=Udc1-A
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Cb1 10nF
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Cin1 4.7uF
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Cin2 4.7uF
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Cin3 10nF
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Co1 330uF
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Co2 10uF
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Co3 10nF
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Din1 TVS 36V
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Do1 Diode
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Do2 TVS 5V
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Lo1 15uH
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Rfb1 62R
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Rfb2 3k
+Added Member To Class: ClassName=DÑ-DC_5.5-36V_5A_Filtered Member=Component Udc1 DC/DC

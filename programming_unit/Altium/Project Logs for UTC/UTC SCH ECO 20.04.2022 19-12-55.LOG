@@ -1,0 +1,26 @@
+Replace Part B1 Button 2 Conn in F:\formula\BRT-UTC\UTC.SchDoc with Button 2 Conn from BRT_Components.SchLib
+Replace Part C1 Cap 0.1uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part C2 Cap 0.1uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part C3 Cap 18pF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 18pF (0805) from BRT_Components.SchLib
+Replace Part C4 Cap 18pF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 18pF (0805) from BRT_Components.SchLib
+Replace Part C14 Cap 0.1uF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0805) from BRT_Components.SchLib
+Replace Part C15 Cap 0.1uF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0805) from BRT_Components.SchLib
+Replace Part C16 Cap 0.1uF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0805) from BRT_Components.SchLib
+Replace Part C17 Cap 0.1uF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0805) from BRT_Components.SchLib
+Replace Part C18 Cap 0.1uF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0805) from BRT_Components.SchLib
+Replace Part C20 Cap 150pF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 150pF (0805) from Schlib1.SchLib
+Replace Part C21 Cap 150pF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 150pF (0805) from Schlib1.SchLib
+Replace Part C22 Cap 150pF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 150pF (0805) from Schlib1.SchLib
+Replace Part C23 Cap 150pF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 150pF (0805) from Schlib1.SchLib
+Replace Part D2 TVS Diode Arrays in F:\formula\BRT-UTC\UTC.SchDoc with TVS Diode Arrays from BRT_Components.SchLib
+Replace Part J1 Conn 8 [Stack64] in F:\formula\BRT-UTC\UTC.SchDoc with Conn 8 [Stack64] from BRT_Components.SchLib
+Replace Part J2 Connector DB9 in F:\formula\BRT-UTC\UTC.SchDoc with Connector DB9 from Schlib1.SchLib
+Replace Part J3 Header 6 in F:\formula\BRT-UTC\UTC.SchDoc with Header 6 from Miscellaneous Connectors.IntLib
+Replace Part J4 Conn 5 (PLS) in F:\formula\BRT-UTC\UTC.SchDoc with Conn 5 (PLS) from BRT_Components.SchLib
+Replace Part J5 Connector USB 2.0 Type-C in F:\formula\BRT-UTC\UTC.SchDoc with Connector USB 2.0 Type-C from BRT_Components.SchLib
+Replace Part R2 Res 3.9k (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Res 3.9k (0805) from BRT_Components.SchLib
+Replace Part R6 Res 4.7k (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Res 4.7k (0603) from BRT_Components.SchLib
+Replace Part R7 Res 4.7k (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Res 4.7k (0603) from BRT_Components.SchLib
+Replace Part U3 CAN Transceiver [MCP2551] in F:\formula\BRT-UTC\UTC.SchDoc with CAN Transceiver [MCP2551] from BRT_Components.SchLib
+Replace Part U4 CAN Transceiver [MCP2551] in F:\formula\BRT-UTC\UTC.SchDoc with CAN Transceiver [MCP2551] from BRT_Components.SchLib
+Replace Part U5 MAX 3232 in F:\formula\BRT-UTC\UTC.SchDoc with MAX 3232 from Schlib1.SchLib

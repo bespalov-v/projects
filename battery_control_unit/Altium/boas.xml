@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BoasConfig>
+  <DocsParams>
+    <PENameParam></PENameParam>
+    <PENameParam3></PENameParam3>
+    <VpAtrib2></VpAtrib2>
+    <VpAtrib4></VpAtrib4>
+    <VpText5></VpText5>
+    <PrimPe></PrimPe>
+    <PrimVp></PrimVp>
+    <ExportPage1>True</ExportPage1>
+    <ExportPage2>True</ExportPage2>
+    <ExportPage3>True</ExportPage3>
+    <ExportPage4>True</ExportPage4>
+    <LockPage1>True</LockPage1>
+    <LockPage2>True</LockPage2>
+    <LockPage3>True</LockPage3>
+    <LockPage4>True</LockPage4>
+    <ExportSch>True</ExportSch>
+    <LockDocs>False</LockDocs>
+    <RazdelFromAtrib>False</RazdelFromAtrib>
+    <PostStart>1</PostStart>
+    <PosInc>2</PosInc>
+    <ShowRazdel>True</ShowRazdel>
+    <OneEntryIsGroup>False</OneEntryIsGroup>
+    <PeFlat>False</PeFlat>
+    <NoVariants>False</NoVariants>
+    <AddSpecRazdelOne>True</AddSpecRazdelOne>
+    <SheetName>SheetName</SheetName>
+  </DocsParams>
+  <Positions>
+    <Position id="3">
+      <Value>Rf1</Value>
+    </Position>
+    <Position id="5">
+      <Value>Rf2</Value>
+    </Position>
+    <Position id="7">
+      <Value>Rc</Value>
+    </Position>
+    <Position id="9">
+      <Value>Cin</Value>
+    </Position>
+    <Position id="11">
+      <Value>Lout</Value>
+    </Position>
+    <Position id="13">
+      <Value>Cc1</Value>
+    </Position>
+    <Position id="15">
+      <Value>Cc2</Value>
+    </Position>
+    <Position id="17">
+      <Value>J5</Value>
+    </Position>
+    <Position id="19">
+      <Value>RL1</Value>
+    </Position>
+    <Position id="21">
+      <Value>J2</Value>
+    </Position>
+    <Position id="23">
+      <Value>Dout</Value>
+    </Position>
+    <Position id="25">
+      <Value>Cout</Value>
+    </Position>
+    <Position id="27">
+      <Value>Dtvs</Value>
+    </Position>
+    <Position id="29">
+      <Value>J4</Value>
+    </Position>
+    <Position id="31">
+      <Value>J7</Value>
+    </Position>
+    <Position id="33">
+      <Value>J6</Value>
+      <Value>J8</Value>
+      <Value>J9</Value>
+    </Position>
+    <Position id="35">
+      <Value>J10</Value>
+      <Value>J11</Value>
+      <Value>J12</Value>
+      <Value>J13</Value>
+    </Position>
+    <Position id="37">
+      <Value>J1</Value>
+      <Value>J3</Value>
+    </Position>
+    <Position id="39">
+      <Value>Udcdc</Value>
+    </Position>
+    <Position id="41">
+      <Value>Q1</Value>
+      <Value>Q2</Value>
+      <Value>Q3</Value>
+    </Position>
+    <Position id="43">
+      <Value>SB1</Value>
+    </Position>
+    <Position id="45">
+      <Value>VD1</Value>
+    </Position>
+    <Position id="47">
+      <Value>C15</Value>
+      <Value>C16</Value>
+    </Position>
+    <Position id="49">
+      <Value>C17</Value>
+      <Value>C18</Value>
+      <Value>C19</Value>
+      <Value>C20</Value>
+      <Value>C21</Value>
+      <Value>C22</Value>
+      <Value>C23</Value>
+      <Value>C24</Value>
+      <Value>C25</Value>
+    </Position>
+    <Position id="51">
+      <Value>C12</Value>
+    </Position>
+    <Position id="53">
+      <Value>C7</Value>
+      <Value>C8</Value>
+      <Value>C13</Value>
+      <Value>C14</Value>
+    </Position>
+    <Position id="55">
+      <Value>C9</Value>
+    </Position>
+    <Position id="57">
+      <Value>C10</Value>
+      <Value>C11</Value>
+    </Position>
+    <Position id="59">
+      <Value>C27</Value>
+    </Position>
+    <Position id="61">
+      <Value>C26</Value>
+      <Value>C28</Value>
+    </Position>
+    <Position id="63">
+      <Value>C1</Value>
+      <Value>C2</Value>
+      <Value>C3</Value>
+      <Value>C4</Value>
+      <Value>C5</Value>
+      <Value>C6</Value>
+    </Position>
+    <Position id="65">
+      <Value>DD1</Value>
+    </Position>
+    <Position id="67">
+      <Value>U1</Value>
+    </Position>
+    <Position id="69">
+      <Value>U3</Value>
+    </Position>
+    <Position id="71">
+      <Value>U2</Value>
+    </Position>
+    <Position id="73">
+      <Value>U4</Value>
+    </Position>
+    <Position id="75">
+      <Value>B1</Value>
+    </Position>
+    <Position id="77">
+      <Value>R23</Value>
+    </Position>
+    <Position id="79">
+      <Value>R13</Value>
+      <Value>R14</Value>
+      <Value>R15</Value>
+      <Value>R16</Value>
+      <Value>R17</Value>
+      <Value>R18</Value>
+      <Value>R19</Value>
+    </Position>
+    <Position id="81">
+      <Value>R27</Value>
+      <Value>R41</Value>
+    </Position>
+    <Position id="83">
+      <Value>R25</Value>
+    </Position>
+    <Position id="85">
+      <Value>R4</Value>
+      <Value>R5</Value>
+      <Value>R6</Value>
+      <Value>R7</Value>
+      <Value>R8</Value>
+      <Value>R9</Value>
+      <Value>R10</Value>
+    </Position>
+    <Position id="87">
+      <Value>R33</Value>
+      <Value>R34</Value>
+    </Position>
+    <Position id="89">
+      <Value>R28</Value>
+      <Value>R29</Value>
+      <Value>R30</Value>
+      <Value>R31</Value>
+      <Value>R32</Value>
+      <Value>R36</Value>
+      <Value>R37</Value>
+      <Value>R38</Value>
+      <Value>R40</Value>
+    </Position>
+    <Position id="91">
+      <Value>R21</Value>
+    </Position>
+    <Position id="93">
+      <Value>R39</Value>
+    </Position>
+    <Position id="95">
+      <Value>R26</Value>
+    </Position>
+    <Position id="97">
+      <Value>R1</Value>
+      <Value>R2</Value>
+      <Value>R3</Value>
+      <Value>R11</Value>
+      <Value>R12</Value>
+      <Value>R20</Value>
+      <Value>R22</Value>
+    </Position>
+    <Position id="99">
+      <Value>R24</Value>
+    </Position>
+    <Position id="101">
+      <Value>R35</Value>
+    </Position>
+    <Position id="103">
+      <Value>D10</Value>
+    </Position>
+    <Position id="105">
+      <Value>D14</Value>
+    </Position>
+    <Position id="107">
+      <Value>D12</Value>
+      <Value>D13</Value>
+    </Position>
+    <Position id="109">
+      <Value>D8</Value>
+    </Position>
+    <Position id="111">
+      <Value>D7</Value>
+    </Position>
+    <Position id="113">
+      <Value>D11</Value>
+    </Position>
+    <Position id="115">
+      <Value>D1</Value>
+      <Value>D2</Value>
+      <Value>D3</Value>
+      <Value>D4</Value>
+      <Value>D5</Value>
+      <Value>D6</Value>
+    </Position>
+    <Position id="117">
+      <Value>D9</Value>
+    </Position>
+    <Position id="119">
+      <Value>T1</Value>
+    </Position>
+    <Position id="121">
+      <Value>Y1</Value>
+    </Position>
+  </Positions>
+  <materials />
+  <pelines>
+    <peline num="" oboz="" name="" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="Udcdc" name="The L5973AD is a step down monolithic power switching regulator with a switch current limit of 2 A so it is able to deliver more than 1.5 A DC current to the load depending on the application conditions" comment="" underline="False" type="None" />
+    <peline num="1" oboz="Rc" name="0.1W 0603 4.7k, 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="Lout" name="15uH, 1.53A, 7X7" comment="" underline="False" type="None" />
+    <peline num="1" oboz="Dtvs" name="ESD Suppressor TVS 30KV,130W,  SOD-323" comment="" underline="False" type="None" />
+    <peline num="1" oboz="Dout" name="Diode Schottky 3A 40V" comment="" underline="False" type="None" />
+    <peline num="1" oboz="Cin" name="10uF X7R 10% 50V 1210" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="B1" name="Преобразователь Button 2 Conn SMD" comment="" underline="False" type="None" />
+    <peline num="1" oboz="Cout" name="ECAP SMD,  16V, 105°C, 20%" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="6" oboz="C1-C6" name="X7R 10nF 100V 10% 0603" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C7, C8" name="1uF X5R 25V 10% 0603" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C9" name="4.7uF X5R 25V 10% 0603" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C10, C11" name="CERAMIC CAPACITOR 0.1uF, 100V, 10%, 1206" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C12" name="1uF 100V 10%" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C13, C14" name="1uF X5R 25V 10% 0603" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C15, C16" name="10pF NP0 50V 5% 0603" comment="" underline="False" type="None" />
+    <peline num="9" oboz="C17-C25" name="0.1uF X7R 16V 10% 0603" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C26" name="ECAP SMD,  35V, 105°C" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C27" name="ECAP SMD,  16V, 105°C, 20%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C28" name="ECAP SMD,  35V, 105°C" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="Cc1" name="220pF NP0 50V 5% 0603" comment="" underline="False" type="None" />
+    <peline num="1" oboz="Cc2" name="22nF X7R 50V 10% 0603" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Схемы интегральные" comment="" underline="False" type="ElementGroup" />
+    <peline num="6" oboz="D1-D6" name="SMD 1608, 112mcd, 120°, 630nM (Ultra Bright Red)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="D7" name="High peak pulse power: 200 W (10/1000 μs)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="D8" name="Diode Schottky 5A 40V" comment="" underline="False" type="None" />
+    <peline num="1" oboz="D9" name="TVS Diode Arrays" comment="" underline="False" type="None" />
+    <peline num="1" oboz="D10" name="0.5 A, Low Forward Voltage less than 385 mV, 400 mW Power Dissipation Package" comment="" underline="False" type="None" />
+    <peline num="1" oboz="D11" name="Led Green SMD 1608, 120°, 525nM" comment="" underline="False" type="None" />
+    <peline num="2" oboz="D12, D13" name="Diode Schottky 3A 40V" comment="" underline="False" type="None" />
+    <peline num="1" oboz="D14" name="Diode Schottky 2 x 20A 45V" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD1" name="Микросхема LTC6810" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="J1" name="PLS-2 (DS1021-1x2)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="J2" name="Connector XT30PW-Male" comment="" underline="False" type="None" />
+    <peline num="1" oboz="J3" name="PLS-2 (DS1021-1x2)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="J4" name="Header, 5-Pin" comment="" underline="False" type="None" />
+    <peline num="1" oboz="J5" name="5.84mm Pitch MX150L Right-Angle PCB Header, Dual Row, without PCB Flange, 8 Circuits" comment="" underline="False" type="None" />
+    <peline num="1" oboz="J6" name="PCB Mount Header, Right Angle,  Wire-to-Board" comment="" underline="False" type="None" />
+    <peline num="1" oboz="J7" name="Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 2 Circuits, with Snap-in Plastic Peg PCB Lock, Tin, Glow-Wire Capable, Black" comment="" underline="False" type="None" />
+    <peline num="2" oboz="J8, J9" name="PCB Mount Header, Right Angle,  Wire-to-Board" comment="" underline="False" type="None" />
+    <peline num="4" oboz="J10-J13" name="PCB terminal block, bushing, M5" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="3" oboz="Q1-Q3" name="Выключатель NPN low VCEsat transistor in a SOT223 plastic package" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Резисторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="3" oboz="R1-R3" name="0.125W 0805 75R, 1%" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Резисторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="7" oboz="R4-R10" name="2512 47R 1%" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R11, R12" name="0.125W 0805 75R, 1%" comment="" underline="False" type="None" />
+    <peline num="7" oboz="R13-R19" name="603 100R 1% 0.1W" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R20" name="0.125W 0805 75R, 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R21" name="0.1W 0603 62R, 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R22" name="0.125W 0805 75R, 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R23" name="603 10R 75V" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R24" name="0.125W 0805 1 MR, 5%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R25" name="1206 100R 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R26" name="0.1W 0603 0R, 5%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R27" name="0603 300R 1%" comment="" underline="False" type="None" />
+    <peline num="5" oboz="R28-R32" name="0.1W 0603 10k, 1%" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R33, R34" name="0.1W 0603 1k, 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R35" name="0.1W 0603 5.1 kOhm, 1%" comment="" underline="False" type="None" />
+    <peline num="3" oboz="R36-R38" name="0.1W 0603 10k, 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R39" name="0.1W 0603 3.9k, 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R40" name="0.1W 0603 10k, 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R41" name="0603 300R 1%" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="Rf1" name="0.1W 0603 11k, 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="Rf2" name="0.1W 0603 3.3k, 1%" comment="" underline="False" type="None" />
+    <peline num="1" oboz="RL1" name="Coil voltage: 24V; 6A max" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="SB1" name="Выключатель кнопочный Circuit Breaker" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="T1" name="Трансформатор Common mode filters&#xD;&#xA;Automotive signal line (for power train/safety)" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Модуляторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="U1" name="A family of CMOS low dropout (LDO)voltage  regulators  that  can  deliver  up  to  250 mA  ofcurrent  while  consuming  only  1.6 μA  of  quiescentcurrent (typical). The input operating range is specifiedfrom 2.3V to 6.0V" comment="" underline="False" type="None" />
+    <peline num="1" oboz="U2" name="High-speed  CAN,  fault-tolerantdevice  that  serves  as  the  interface  between  a  CANprotocol controller and the physical bus." comment="" underline="False" type="None" />
+    <peline num="1" oboz="U3" name="Cortex™-M3 32-bit RISC core operating at a 72 MHz frequency" comment="" underline="False" type="None" />
+    <peline num="1" oboz="U4" name="LTV-817S, 5000 Vrms, SMD-4, 4-pin, -30...+110 degC" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="VD1" name="Диод SMF26A 200W" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="Y1" name="Устройство механическое с электромагнитным приводом Crystal. HC-49SM (US)" comment="" underline="False" type="None" />
+  </pelines>
+  <vplines>
+    <vpline num="" oboz="" name="" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="0.1W 0603 11k, 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="0.1W 0603 3.3k, 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="0.1W 0603 4.7k, 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="10uF X7R 10% 50V 1210" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="15uH, 1.53A, 7X7" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="220pF NP0 50V 5% 0603" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="22nF X7R 50V 10% 0603" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="5.84mm Pitch MX150L Right-Angle PCB Header, " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Dual Row, without PCB Flange, 8 Circuits " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Coil voltage: 24V; 6A max" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Connector XT30PW-Male" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Diode Schottky 3A 40V" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="ECAP SMD,  16V, 105°C, 20%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="ESD Suppressor TVS 30KV,130W, " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name=" SOD-323 " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Header, 5-Pin" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 2 Circuits, " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="with Snap-in Plastic Peg PCB Lock, Tin, Glow-Wire Capable, Black " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" name="PCB Mount Header, Right " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Angle,  Wire-to-Board " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="4" oboz="" name="PCB terminal block, bushing, M5" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="PLS-2 (DS1021-1x2)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="The L5973AD is a step down monolithic power switching regulator with a switch current limit of 2 A so " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="it is able to deliver more than 1.5 A DC current to the load depending on the application conditions " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Выключатели" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" name="NPN low VCEsat transistor in " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="a SOT223 plastic package " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Выключатели кнопочные" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Circuit Breaker" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Диоды" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="SMF26A 200W" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="10pF NP0 50V 5% 0603" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="9" oboz="" name="0.1uF X7R 16V 10% 0603" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="1uF 100V 10%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="4" oboz="" name="1uF X5R 25V 10% 0603" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="4.7uF X5R 25V 10% 0603" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="CERAMIC CAPACITOR 0.1uF, " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="100V, 10%, 1206 " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="ECAP SMD,  16V, 105°C, 20%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="ECAP SMD,  35V, 105°C" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="6" oboz="" name="X7R 10nF 100V 10% 0603" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Микросхемы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="LTC6810" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Модуляторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="A family of CMOS low dropout (LDO)voltage  regulators  that  can  deliver  up  to  250 mA  ofcurrent  while  consuming " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name=" only  1.6 μA  of  quiescentcurrent (typical). The input operating range is specifiedfrom 2.3V to 6.0V " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Cortex™-M3 32-bit RISC core operating " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="at a 72 MHz frequency " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="High-speed  CAN,  fault-tolerantdevice  that  serves  as  the  interface " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name=" between  a  CANprotocol controller and the physical bus. " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="LTV-817S, 5000 Vrms, SMD-4, " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="4-pin, -30...+110 degC " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Преобразователи" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Button 2 Conn SMD" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="603 10R 75V" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="7" oboz="" name="603 100R 1% 0.1W" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="0603 300R 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="1206 100R 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="7" oboz="" name="2512 47R 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="0.1W 0603 1k, 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="9" oboz="" name="0.1W 0603 10k, 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="0.1W 0603 62R, 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="0.1W 0603 3.9k, 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="0.1W 0603 0R, 5%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="7" oboz="" name="0.125W 0805 75R, 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="0.125W 0805 1 MR, 5%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="0.1W 0603 5.1 kOhm, 1%" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Схемы интегральные" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="0.5 A, Low Forward Voltage less than 385 " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="mV, 400 mW Power Dissipation Package " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Diode Schottky 2 x 20A 45V" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" name="Diode Schottky 3A 40V" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Diode Schottky 5A 40V" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="High peak pulse power: " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="200 W (10/1000 μs) " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Led Green SMD 1608, 120°, 525nM" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="6" oboz="" name="SMD 1608, 112mcd, 120°, 630nM " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="(Ultra Bright Red) " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="TVS Diode Arrays" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Трансформаторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Common mode filters&#xD;&#xA;Automotive signal " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="line (for power train/safety) " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" name="Устройства механические с электромагнитным приводом" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" name="Crystal. HC-49SM (US)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+  </vplines>
+  <speclines>
+    <specline num="" oboz="" name="Документация" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="AMS-LV" name="Сборочный чертеж" comment="*)А2, А1" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="*)" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Схема электрическая" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А1" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Перечень элементов" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А4" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Ведомость покупных" comment="*)А4, А3" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="*)" pos="" posinelement="0" />
+    <specline num="" oboz="" name="изделий" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Сборочные единицы" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="AMS-LV" name="Плата многослойная" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="1" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Прочие изделия" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="0.1W 0603 11k, 1%" comment="Rf1" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="3" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="0.1W 0603 3.3k, 1%" comment="Rf2" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="5" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="0.1W 0603 4.7k, 1%" comment="Rc" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="7" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="10uF X7R 10% 50V 1210" comment="Cin" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="9" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="15uH, 1.53A, 7X7" comment="Lout" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="11" posinelement="1" />
+    <specline num="1" oboz="" name="220pF NP0 50V 5% 0603" comment="Cc1" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="13" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="22nF X7R 50V 10% 0603" comment="Cc2" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="15" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="5.84mm Pitch MX150L Right-Angle PCB Header, " comment="J5" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="17" posinelement="1" />
+    <specline num="" oboz="" name="Dual Row, without PCB Flange, 8 Circuits " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Coil voltage: 24V; 6A max" comment="RL1" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="19" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Connector XT30PW-Male" comment="J2" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="21" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Diode Schottky 3A 40V" comment="Dout" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="23" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="ECAP SMD,  16V, 105°C, 20%" comment="Cout" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="25" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="ESD Suppressor TVS 30KV,130W,  SOD-323" comment="Dtvs" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="27" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Header, 5-Pin" comment="J4" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="29" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 2 Circuits, " comment="J7" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="31" posinelement="1" />
+    <specline num="" oboz="" name="with Snap-in Plastic Peg PCB Lock, Tin, Glow-Wire Capable, Black " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="3" oboz="" name="PCB Mount Header, Right " comment="J6, " underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="33" posinelement="1" />
+    <specline num="" oboz="" name="Angle,  Wire-to-Board " comment="J8, J9" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="4" oboz="" name="PCB terminal block, bushing, M5" comment="J10-J13" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="35" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="PLS-2 (DS1021-1x2)" comment="J1, " underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="37" posinelement="1" />
+    <specline num="" oboz="" name="" comment="J3" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="1" oboz="" name="The L5973AD is a step down monolithic power switching regulator with a switch current limit of 2 A so " comment="Udcdc" underline="False" type="None" merge="False" needtu="True" GroupLine1="" GroupLine2="" format="" pos="39" posinelement="1" />
+    <specline num="" oboz="" name="it is able to deliver more than 1.5 A DC current to the load depending on the application conditions " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="3" oboz="" name="Выключатель NPN low VCEsat transistor " comment="Q1-Q3" underline="False" type="None" merge="False" needtu="True" GroupLine1="Выключатели" GroupLine2="" format="" pos="41" posinelement="1" />
+    <specline num="" oboz="" name="in a SOT223 plastic package " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Выключатель кнопочный Circuit Breaker" comment="SB1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Выключатели кнопочные" GroupLine2="" format="" pos="43" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Диод SMF26A 200W" comment="VD1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Диоды" GroupLine2="" format="" pos="45" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Конденсатор 10pF NP0 50V 5% 0603" comment="C15, C16" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="47" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="9" oboz="" name="Конденсатор 0.1uF X7R 16V 10% 0603" comment="C17-C25" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="49" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Конденсатор 1uF 100V 10%" comment="C12" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="51" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="4" oboz="" name="Конденсатор 1uF X5R 25V 10% 0603" comment="C7, C8, " underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="53" posinelement="1" />
+    <specline num="" oboz="" name="" comment="C13, C14" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Конденсатор 4.7uF X5R 25V 10% 0603" comment="C9" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="55" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Конденсатор CERAMIC CAPACITOR " comment="C10, C11" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="57" posinelement="1" />
+    <specline num="" oboz="" name="0.1uF, 100V, 10%, 1206 " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Конденсатор ECAP SMD,  16V, 105°C, 20%" comment="C27" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="59" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Конденсатор ECAP SMD,  35V, 105°C" comment="C26, " underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="61" posinelement="1" />
+    <specline num="" oboz="" name="" comment="C28" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="6" oboz="" name="Конденсатор X7R 10nF 100V 10% 0603" comment="C1-C6" underline="False" type="None" merge="False" needtu="True" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="63" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Микросхема LTC6810" comment="DD1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Микросхемы" GroupLine2="" format="" pos="65" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Модулятор A family of CMOS low dropout (LDO)voltage  regulators  that  can  deliver  up  to  250 mA  ofcurrent  while " comment="U1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Модуляторы" GroupLine2="" format="" pos="67" posinelement="1" />
+    <specline num="" oboz="" name=" consuming  only  1.6 μA  of  quiescentcurrent (typical). The input operating range is specifiedfrom 2.3V to 6.0V " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Модулятор Cortex™-M3 32-bit RISC core " comment="U3" underline="False" type="None" merge="False" needtu="True" GroupLine1="Модуляторы" GroupLine2="" format="" pos="69" posinelement="1" />
+    <specline num="" oboz="" name="operating at a 72 MHz frequency " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Модулятор High-speed  CAN,  fault-tolerantdevice  that  serves  as  the " comment="U2" underline="False" type="None" merge="False" needtu="True" GroupLine1="Модуляторы" GroupLine2="" format="" pos="71" posinelement="1" />
+    <specline num="" oboz="" name=" interface  between  a  CANprotocol controller and the physical bus. " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Модулятор LTV-817S, 5000 Vrms, " comment="U4" underline="False" type="None" merge="False" needtu="True" GroupLine1="Модуляторы" GroupLine2="" format="" pos="73" posinelement="1" />
+    <specline num="" oboz="" name="SMD-4, 4-pin, -30...+110 degC " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Преобразователь Button 2 Conn SMD" comment="B1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Преобразователи" GroupLine2="" format="" pos="75" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резистор 603 10R 75V" comment="R23" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="77" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="7" oboz="" name="Резистор 603 100R 1% 0.1W" comment="R13-R19" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="79" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Резистор 0603 300R 1%" comment="R27, " underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="81" posinelement="1" />
+    <specline num="" oboz="" name="" comment="R41" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резистор 1206 100R 1%" comment="R25" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="83" posinelement="1" />
+    <specline num="7" oboz="" name="Резистор 2512 47R 1%" comment="R4-R10" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="85" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Резистор 0.1W 0603 1k, 1%" comment="R33, R34" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="87" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="9" oboz="" name="Резистор 0.1W 0603 10k, 1%" comment="R28-R32, " underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="89" posinelement="1" />
+    <specline num="" oboz="" name="" comment="R36-R38, R40" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резистор 0.1W 0603 62R, 1%" comment="R21" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="91" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резистор 0.1W 0603 3.9k, 1%" comment="R39" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="93" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резистор 0.1W 0603 0R, 5%" comment="R26" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="95" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="7" oboz="" name="Резистор 0.125W 0805 75R, 1%" comment="R1-R3, " underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="97" posinelement="1" />
+    <specline num="" oboz="" name="" comment="R11, R12, R20," underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="R22" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="3" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резистор 0.125W 0805 1 MR, 5%" comment="R24" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="99" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Резистор 0.1W 0603 5.1 kOhm, 1%" comment="R35" underline="False" type="None" merge="False" needtu="True" GroupLine1="Резисторы" GroupLine2="" format="" pos="101" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Схема интегральная 0.5 A, Low Forward Voltage less " comment="D10" underline="False" type="None" merge="False" needtu="True" GroupLine1="Схемы интегральные" GroupLine2="" format="" pos="103" posinelement="1" />
+    <specline num="" oboz="" name="than 385 mV, 400 mW Power Dissipation Package " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Схема интегральная Diode " comment="D14" underline="False" type="None" merge="False" needtu="True" GroupLine1="Схемы интегральные" GroupLine2="" format="" pos="105" posinelement="1" />
+    <specline num="" oboz="" name="Schottky 2 x 20A 45V " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Схема интегральная Diode " comment="D12, D13" underline="False" type="None" merge="False" needtu="True" GroupLine1="Схемы интегральные" GroupLine2="" format="" pos="107" posinelement="1" />
+    <specline num="" oboz="" name="Schottky 3A 40V " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Схема интегральная Diode " comment="D8" underline="False" type="None" merge="False" needtu="True" GroupLine1="Схемы интегральные" GroupLine2="" format="" pos="109" posinelement="1" />
+    <specline num="" oboz="" name="Schottky 5A 40V " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Схема интегральная High peak pulse " comment="D7" underline="False" type="None" merge="False" needtu="True" GroupLine1="Схемы интегральные" GroupLine2="" format="" pos="111" posinelement="1" />
+    <specline num="" oboz="" name="power: 200 W (10/1000 μs) " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Схема интегральная Led Green " comment="D11" underline="False" type="None" merge="False" needtu="True" GroupLine1="Схемы интегральные" GroupLine2="" format="" pos="113" posinelement="1" />
+    <specline num="" oboz="" name="SMD 1608, 120°, 525nM " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="6" oboz="" name="Схема интегральная SMD 1608, 112mcd, " comment="D1-D6" underline="False" type="None" merge="False" needtu="True" GroupLine1="Схемы интегральные" GroupLine2="" format="" pos="115" posinelement="1" />
+    <specline num="" oboz="" name="120°, 630nM (Ultra Bright Red) " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Схема интегральная TVS Diode Arrays" comment="D9" underline="False" type="None" merge="False" needtu="True" GroupLine1="Схемы интегральные" GroupLine2="" format="" pos="117" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Трансформатор Common mode filters&#xD;&#xA;Automotive " comment="T1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Трансформаторы" GroupLine2="" format="" pos="119" posinelement="1" />
+    <specline num="" oboz="" name="signal line (for power train/safety) " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Устройство механическое с электромагнитным " comment="Y1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Устройства механические с электромагнитным приводом" GroupLine2="" format="" pos="121" posinelement="1" />
+    <specline num="" oboz="" name="приводом Crystal. HC-49SM (US) " comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+  </speclines>
+  <speclinespp>
+    <specline num="" oboz="" name="Документация" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="AMS-LV" name="Сборочный чертеж" comment="*)А2,А1" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="*)" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Материалы" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+  </speclinespp>
+  <groups>
+    <group name="default">
+      <param name="[Description]" delemiter=" " />
+    </group>
+  </groups>
+  <groupscategory />
+  <razdels>
+    <razdel name="docs" np="False">
+      <specline num="" oboz="AMS-LV" name="Сборочный чертеж" comment="*)А2, А1" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="*)" pos="" id="lineSB1" posinelement="0" />
+      <specline num="" oboz="" name="Схема электрическая" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А1" pos="" id="lineSch1" posinelement="0" />
+      <specline num="" oboz="" name="Перечень элементов" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А4" pos="" id="linePE1" posinelement="0" />
+      <specline num="" oboz="" name="Ведомость покупных  изделий" comment="*)А4, А3" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="*)" pos="" id="lineVP1" posinelement="0" />
+    </razdel>
+    <razdel name="Sbor" np="False">
+      <specline num="1" oboz="AMS-LV" name="Плата многослойная" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="1" id="lineSbor1" posinelement="0" />
+    </razdel>
+    <razdel name="prochie" np="False" />
+  </razdels>
+</BoasConfig>

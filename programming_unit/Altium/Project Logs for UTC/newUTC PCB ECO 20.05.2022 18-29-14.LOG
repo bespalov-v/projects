@@ -1,0 +1,12 @@
+Added Component: Designator=J5(USB Type C 16pin)
+Added Pin To Net: NetName=GND Pin=J5-A1
+Added Pin To Net: NetName=+5V Pin=J5-A4
+Added Pin To Net: NetName=+5V Pin=J5-A4
+Added Pin To Net: NetName=NetJ5_A5 Pin=J5-A5
+Added Pin To Net: NetName=OTG_FS_DP_1 Pin=J5-A6
+Added Pin To Net: NetName=OTG_FS_DM_1 Pin=J5-A7
+Added Pin To Net: NetName=GND Pin=J5-A12
+Added Pin To Net: NetName=NetJ5_B5 Pin=J5-B5
+Added Pin To Net: NetName=OTG_FS_DP_1 Pin=J5-B6
+Added Pin To Net: NetName=OTG_FS_DM_1 Pin=J5-B7
+Added Member To Class: ClassName=UTC Member=Component J5 USB Type C 2.0 16 pin

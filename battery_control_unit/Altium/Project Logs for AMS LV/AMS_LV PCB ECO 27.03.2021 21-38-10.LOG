@@ -1,0 +1,15 @@
+Added Component: Designator=J4(Conn4x2 [MX150L])
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0194270017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "194270017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_P Pin=J4-1
+Added Pin To Net: NetName=CAN_N Pin=J4-2
+Added Pin To Net: NetName=CAN_P Pin=J4-3
+Added Pin To Net: NetName=CAN_N Pin=J4-4
+Added Pin To Net: NetName=BAT V- Pin=J4-5
+Added Pin To Net: NetName=SD_in Pin=J4-6
+Added Pin To Net: NetName=SD_out Pin=J4-7
+Added Pin To Net: NetName=+24V_IN Pin=J4-8
+Added Member To Class: ClassName=AMS_LV_6 Member=Component J4 MX150L

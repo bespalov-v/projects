@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J4 Old Footprint=MX150_4x2 New Footprint=Conn4x2 [MX150L]
+Change Component Comment : Designator=J4 Old Comment=AMX150 New Comment=MX150L
+Change component parameters: Designator = "J4" ("J4"); Footprint = "MX150_4x2"; UniqueID = "\DQXQFJQX" ("\DQXQFJQX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0194270017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "194270017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connector"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DC-DC_4-36V_2A Member=Component Cc1 220pF
+Added Member To Class: ClassName=DC-DC_4-36V_2A Member=Component Cc2 22nF
+Added Member To Class: ClassName=DC-DC_4-36V_2A Member=Component Rf1 11k
+Added Member To Class: ClassName=DC-DC_4-36V_2A Member=Component Rf2 3.3k

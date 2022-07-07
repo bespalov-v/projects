@@ -1,0 +1,288 @@
+Removed Pin From Net: NetName=BAT V- Pin=Cc1-1
+Removed Pin From Net: NetName=NetCc1_2 Pin=Cc1-2
+Removed Pin From Net: NetName=NetCc2_1 Pin=Cc2-1
+Removed Pin From Net: NetName=NetCc1_2 Pin=Cc2-2
+Removed Pin From Net: NetName=+24V Pin=Cin1-1
+Removed Pin From Net: NetName=BAT V- Pin=Cin1-2
+Removed Pin From Net: NetName=BAT V- Pin=Cout1-1
+Removed Pin From Net: NetName=+5V Pin=Cout1-2
+Removed Pin From Net: NetName=BAT V- Pin=Dout1-1
+Removed Pin From Net: NetName=BAT V- Pin=Dtvs1-1
+Removed Pin From Net: NetName=+5V Pin=Dtvs1-2
+Removed Pin From Net: NetName=+5V Pin=Lout1-2
+Removed Pin From Net: NetName=S0 Pin=R1-1
+Removed Pin From Net: NetName=BAT V- Pin=R1-2
+Removed Pin From Net: NetName=S0 Pin=R2-1
+Removed Pin From Net: NetName=BAT V- Pin=R2-2
+Removed Pin From Net: NetName=S1 Pin=R3-1
+Removed Pin From Net: NetName=CELL2 Pin=R3-2
+Removed Pin From Net: NetName=S1 Pin=R4-1
+Removed Pin From Net: NetName=CELL2 Pin=R4-2
+Removed Pin From Net: NetName=S2 Pin=R5-1
+Removed Pin From Net: NetName=CELL3 Pin=R5-2
+Removed Pin From Net: NetName=S2 Pin=R6-1
+Removed Pin From Net: NetName=CELL3 Pin=R6-2
+Removed Pin From Net: NetName=S3 Pin=R7-1
+Removed Pin From Net: NetName=CELL4 Pin=R7-2
+Removed Pin From Net: NetName=S3 Pin=R8-1
+Removed Pin From Net: NetName=CELL4 Pin=R8-2
+Removed Pin From Net: NetName=S4 Pin=R9-1
+Removed Pin From Net: NetName=CELL5 Pin=R9-2
+Removed Pin From Net: NetName=S4 Pin=R10-1
+Removed Pin From Net: NetName=CELL5 Pin=R10-2
+Removed Pin From Net: NetName=S5 Pin=R11-1
+Removed Pin From Net: NetName=CELL6 Pin=R11-2
+Removed Pin From Net: NetName=S5 Pin=R12-1
+Removed Pin From Net: NetName=CELL6 Pin=R12-2
+Removed Pin From Net: NetName=S6 Pin=R13-1
+Removed Pin From Net: NetName=BAT V+ Pin=R13-2
+Removed Pin From Net: NetName=S6 Pin=R14-1
+Removed Pin From Net: NetName=BAT V+ Pin=R14-2
+Removed Pin From Net: NetName=BAT V- Pin=Rc1-1
+Removed Pin From Net: NetName=NetCc2_1 Pin=Rc1-2
+Removed Pin From Net: NetName=NetRf1_1 Pin=Rf1-1
+Removed Pin From Net: NetName=+5V Pin=Rf1-2
+Removed Pin From Net: NetName=BAT V- Pin=Rf2-1
+Removed Pin From Net: NetName=NetRf1_1 Pin=Rf2-2
+Removed Pin From Net: NetName=BAT V- Pin=Udcdc1-3
+Removed Pin From Net: NetName=NetCc1_2 Pin=Udcdc1-4
+Removed Pin From Net: NetName=NetRf1_1 Pin=Udcdc1-5
+Removed Pin From Net: NetName=BAT V- Pin=Udcdc1-7
+Removed Pin From Net: NetName=+24V Pin=Udcdc1-8
+Removed Pin From Net: NetName=BAT V- Pin=Udcdc1-A
+Removed Member From Class: ClassName=AMS_LV_6 Member=Cc1
+Removed Member From Class: ClassName=AMS_LV_6 Member=Cc2
+Removed Member From Class: ClassName=AMS_LV_6 Member=Cin1
+Removed Member From Class: ClassName=AMS_LV_6 Member=Cout1
+Removed Member From Class: ClassName=AMS_LV_6 Member=Dout1
+Removed Member From Class: ClassName=AMS_LV_6 Member=Dtvs1
+Removed Member From Class: ClassName=AMS_LV_6 Member=Lout1
+Removed Member From Class: ClassName=AMS_LV_6 Member=R14
+Removed Member From Class: ClassName=AMS_LV_6 Member=Rc1
+Removed Member From Class: ClassName=AMS_LV_6 Member=Rf1
+Removed Member From Class: ClassName=AMS_LV_6 Member=Rf2
+Removed Member From Class: ClassName=AMS_LV_6 Member=Udcdc1
+Change Component Footprint: Designator=R1 Old Footprint=2512 Resistor New Footprint=0805 Resistor
+Change Component Footprint: Designator=R2 Old Footprint=2512 Resistor New Footprint=0805 Resistor
+Change Component Footprint: Designator=R3 Old Footprint=2512 Resistor New Footprint=0805 Resistor
+Change Component Footprint: Designator=R11 Old Footprint=2512 Resistor New Footprint=0805 Resistor
+Change Component Footprint: Designator=R12 Old Footprint=2512 Resistor New Footprint=0805 Resistor
+Change Component Footprint: Designator=R13 Old Footprint=2512 Resistor New Footprint=0805 Resistor
+Change Component Comment : Designator=R4 Old Comment=75R New Comment=39R
+Change Component Comment : Designator=R5 Old Comment=75R New Comment=39R
+Change Component Comment : Designator=R6 Old Comment=75R New Comment=39R
+Change Component Comment : Designator=R7 Old Comment=75R New Comment=39R
+Change Component Comment : Designator=R8 Old Comment=75R New Comment=39R
+Change Component Comment : Designator=R9 Old Comment=75R New Comment=39R
+Change Component Comment : Designator=R10 Old Comment=75R New Comment=39R
+Change Component Designator: OldDesignator=Cc1_1 NewDesignator=Cc1
+Change Component Designator: OldDesignator=Cc2_1 NewDesignator=Cc2
+Change Component Designator: OldDesignator=Rf1_1 NewDesignator=Rf1
+Change Component Designator: OldDesignator=Rf2_1 NewDesignator=Rf2
+Change component parameters: Designator = "R4" ("R4"); Footprint = "2512 Resistor"; UniqueID = "\EGOQKKDH" ("\EGOQKKDH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/788/DOC004788200.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partnumber"; Value = "RC2512FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "2512 Resistor"; UniqueID = "\XDMPYWYY" ("\XDMPYWYY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/788/DOC004788200.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partnumber"; Value = "RC2512FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "2512 Resistor"; UniqueID = "\OFYQQGHS" ("\OFYQQGHS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/788/DOC004788200.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partnumber"; Value = "RC2512FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "2512 Resistor"; UniqueID = "\MYRAOSRE" ("\MYRAOSRE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/788/DOC004788200.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partnumber"; Value = "RC2512FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "2512 Resistor"; UniqueID = "\ZMWXBCGY" ("\ZMWXBCGY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/788/DOC004788200.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partnumber"; Value = "RC2512FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "2512 Resistor"; UniqueID = "\RYYWCVFB" ("\RYYWCVFB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/788/DOC004788200.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partnumber"; Value = "RC2512FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "2512 Resistor"; UniqueID = "\KRPNHXQN" ("\KRPNHXQN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://static.chipdip.ru/lib/788/DOC004788200.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partnumber"; Value = "RC2512FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "2512 Resistor"; UniqueID = "\KAKDGLDM" ("\KAKDGLDM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "2512 Resistor"; UniqueID = "\OWWQHYVJ" ("\OWWQHYVJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "2512 Resistor"; UniqueID = "\ZHBJDOLI" ("\ZHBJDOLI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "2512 Resistor"; UniqueID = "\XCSACCXT" ("\XCSACCXT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "2512 Resistor"; UniqueID = "\RBHRLHXD" ("\RBHRLHXD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "2512 Resistor"; UniqueID = "\ITZMWKSZ" ("\ITZMWKSZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079459"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taiwan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805FR-0775RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=D1(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-MRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D2(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-MRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D3(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-MRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D4(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-MRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D5(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-MRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Component: Designator=D6(0805 LED)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Chip&Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Oasis Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TO-1608BC-MRE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diode"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT V- Pin=Cc1-1
+Added Pin To Net: NetName=NetCc1_2 Pin=Cc1-2
+Added Pin To Net: NetName=NetCc2_1 Pin=Cc2-1
+Added Pin To Net: NetName=NetCc1_2 Pin=Cc2-2
+Added Pin To Net: NetName=+24V Pin=Cin-1
+Added Pin To Net: NetName=BAT V- Pin=Cin-2
+Added Pin To Net: NetName=BAT V- Pin=Cout-1
+Added Pin To Net: NetName=+5V Pin=Cout-2
+Added Pin To Net: NetName=CELL5 Pin=D1-2
+Added Pin To Net: NetName=CELL3 Pin=D2-2
+Added Pin To Net: NetName=BAT V- Pin=D3-2
+Added Pin To Net: NetName=S4 Pin=D4-2
+Added Pin To Net: NetName=S6 Pin=D5-2
+Added Pin To Net: NetName=S2 Pin=D6-2
+Added Pin To Net: NetName=BAT V- Pin=Dout-1
+Added Pin To Net: NetName=BAT V- Pin=Dtvs-1
+Added Pin To Net: NetName=+5V Pin=Dtvs-2
+Added Pin To Net: NetName=+5V Pin=Lout-2
+Added Pin To Net: NetName=CELL5 Pin=R1-2
+Added Pin To Net: NetName=BAT V+ Pin=R2-2
+Added Pin To Net: NetName=CELL3 Pin=R3-2
+Added Pin To Net: NetName=S6 Pin=R4-1
+Added Pin To Net: NetName=BAT V+ Pin=R4-2
+Added Pin To Net: NetName=S0 Pin=R5-1
+Added Pin To Net: NetName=BAT V- Pin=R5-2
+Added Pin To Net: NetName=S3 Pin=R6-1
+Added Pin To Net: NetName=CELL4 Pin=R6-2
+Added Pin To Net: NetName=S4 Pin=R7-1
+Added Pin To Net: NetName=CELL5 Pin=R7-2
+Added Pin To Net: NetName=S5 Pin=R8-1
+Added Pin To Net: NetName=CELL6 Pin=R8-2
+Added Pin To Net: NetName=S1 Pin=R9-1
+Added Pin To Net: NetName=CELL2 Pin=R9-2
+Added Pin To Net: NetName=S2 Pin=R10-1
+Added Pin To Net: NetName=CELL3 Pin=R10-2
+Added Pin To Net: NetName=S4 Pin=R11-2
+Added Pin To Net: NetName=S2 Pin=R12-2
+Added Pin To Net: NetName=S0 Pin=R13-2
+Added Pin To Net: NetName=BAT V- Pin=Rc-1
+Added Pin To Net: NetName=NetCc2_1 Pin=Rc-2
+Added Pin To Net: NetName=NetRf1_1 Pin=Rf1-1
+Added Pin To Net: NetName=+5V Pin=Rf1-2
+Added Pin To Net: NetName=BAT V- Pin=Rf2-1
+Added Pin To Net: NetName=NetRf1_1 Pin=Rf2-2
+Added Pin To Net: NetName=BAT V- Pin=Udcdc-3
+Added Pin To Net: NetName=NetCc1_2 Pin=Udcdc-4
+Added Pin To Net: NetName=NetRf1_1 Pin=Udcdc-5
+Added Pin To Net: NetName=BAT V- Pin=Udcdc-7
+Added Pin To Net: NetName=+24V Pin=Udcdc-8
+Added Pin To Net: NetName=BAT V- Pin=Udcdc-A
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R11-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R12-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R13-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R1-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R2-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R3-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetDout_2 Pin=Dout-2
+Added Pin To Net: NetName=NetDout_2 Pin=Lout-1
+Added Pin To Net: NetName=NetDout_2 Pin=Udcdc-1
+Added Net: Name=NetDout_2
+Added Class: Name=DC-DC_4-36V_2A
+Added Member To Class: ClassName=AMS_LV_6 Member=Component D1 LedR
+Added Member To Class: ClassName=AMS_LV_6 Member=Component D2 LedR
+Added Member To Class: ClassName=AMS_LV_6 Member=Component D3 LedR
+Added Member To Class: ClassName=AMS_LV_6 Member=Component D4 LedR
+Added Member To Class: ClassName=AMS_LV_6 Member=Component D5 LedR
+Added Member To Class: ClassName=AMS_LV_6 Member=Component D6 LedR

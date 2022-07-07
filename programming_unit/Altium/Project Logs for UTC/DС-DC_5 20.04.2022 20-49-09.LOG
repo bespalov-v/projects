@@ -1,0 +1,14 @@
+Replace Part Cb1 Cap 10nF (1206) in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Cap 10nF (1206) from BRT_Components.SchLib
+Replace Part Cin1 Cap 4.7uF (1206) in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Cap 4.7uF (1206) from BRT_Components.SchLib
+Replace Part Cin2 Cap 4.7uF (1206) in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Cap 4.7uF (1206) from BRT_Components.SchLib
+Replace Part Cin3 Cap 10nF (1206) in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Cap 10nF (1206) from BRT_Components.SchLib
+Replace Part Co1 Cap Pol 330uF in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Cap Pol 330uF from BRT_Components.SchLib
+Replace Part Co2 Cap Tantal 10uF (SMDA) in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Cap Tantal 10uF (SMDA) from BRT_Components.SchLib
+Replace Part Co3 Cap 10nF (1206) in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Cap 10nF (1206) from BRT_Components.SchLib
+Replace Part Din1 TVS Diode 36V [SM6T] in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with TVS Diode 36V [SM6T] from BRT_Components.SchLib
+Replace Part Do1 Diode Schottky (SMB) [SK54] in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Diode Schottky (SMB) [SK54] from BRT_Components.SchLib
+Replace Part Do2 TVS Diode 5V [PESD] in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with TVS Diode 5V [PESD] from BRT_Components.SchLib
+Replace Part Lo1 Inductor 15uH (0.2..3.6A) in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Inductor 15uH (0.2..3.6A) from BRT_Components.SchLib
+Replace Part Rfb1 Res 62R (0603) in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Res 62R (0603) from BRT_Components.SchLib
+Replace Part Rfb2 Res 3k (0603) in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with Res 3k (0603) from BRT_Components.SchLib
+Replace Part Udc1 DC/DC Controller [TPS54] in F:\formula\BRT-UTC\DÑ-DC_5.5-36V_5A_Filtered.SchDoc with DC/DC Controller [TPS54] from BRT_Components.SchLib

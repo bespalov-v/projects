@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=CAN_P Pin=J4-1
+Removed Pin From Net: NetName=CAN_N Pin=J4-2
+Removed Pin From Net: NetName=SD_in Pin=J4-6
+Removed Pin From Net: NetName=SD_out Pin=J4-7
+Added Pin To Net: NetName=SD_in Pin=J4-1
+Added Pin To Net: NetName=SD_out Pin=J4-2
+Added Pin To Net: NetName=CAN_P Pin=J4-7
+Added Pin To Net: NetName=CAN_N Pin=J4-8
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 100R
+Added Member To Class: ClassName=AMS_LV_6 Member=Component R? 75R

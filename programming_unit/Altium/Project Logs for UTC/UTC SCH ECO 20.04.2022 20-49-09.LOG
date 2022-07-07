@@ -1,0 +1,47 @@
+Replace Part C5 Cap 4.7uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 4.7uF (0603) from BRT_Components.SchLib
+Replace Part C6 Cap 0.1uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part C7 Cap 0.1uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part C8 Cap 0.1uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part C9 Cap 0.1uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part C10 Cap 0.1uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part C11 Cap 0.1uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0603) from BRT_Components.SchLib
+Replace Part C12 Cap 4.7uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 4.7uF (0603) from BRT_Components.SchLib
+Replace Part C13 Cap 4.7uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 4.7uF (0603) from BRT_Components.SchLib
+Replace Part C14 Cap 0.1uF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0805) from BRT_Components.SchLib
+Replace Part C15 Cap 0.1uF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0805) from BRT_Components.SchLib
+Replace Part C16 Cap 0.1uF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0805) from BRT_Components.SchLib
+Replace Part C17 Cap 0.1uF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0805) from BRT_Components.SchLib
+Replace Part C18 Cap 0.1uF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 0.1uF (0805) from BRT_Components.SchLib
+Replace Part C19 Cap Pol 4.7uF in F:\formula\BRT-UTC\UTC.SchDoc with Cap Pol 4.7uF from BRT_Components.SchLib
+Replace Part C20 Cap 150pF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 150pF (0805) from Schlib1.SchLib
+Replace Part C21 Cap 150pF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 150pF (0805) from Schlib1.SchLib
+Replace Part C22 Cap 150pF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 150pF (0805) from Schlib1.SchLib
+Replace Part C23 Cap 150pF (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 150pF (0805) from Schlib1.SchLib
+Replace Part C24 Cap 4.7uF (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Cap 4.7uF (0603) from BRT_Components.SchLib
+Replace Part D1 TVS Diode 3.3V [SM2T] in F:\formula\BRT-UTC\UTC.SchDoc with TVS Diode 3.3V [SM2T] from BRT_Components.SchLib
+Replace Part D2 TVS Diode Arrays in F:\formula\BRT-UTC\UTC.SchDoc with TVS Diode Arrays from BRT_Components.SchLib
+Replace Part D3 TVS Diode Arrays in F:\formula\BRT-UTC\UTC.SchDoc with TVS Diode Arrays from BRT_Components.SchLib
+Replace Part D4 Diode Schottky (SOD-123) in F:\formula\BRT-UTC\UTC.SchDoc with Diode Schottky (SOD-123) from BRT_Components.SchLib
+Replace Part D5 Diode Schottky (SOD-123) in F:\formula\BRT-UTC\UTC.SchDoc with Diode Schottky (SOD-123) from BRT_Components.SchLib
+Replace Part J1 Conn 8 [Stack64] in F:\formula\BRT-UTC\UTC.SchDoc with Conn 8 [Stack64] from BRT_Components.SchLib
+Replace Part J2 Connector DB9 in F:\formula\BRT-UTC\UTC.SchDoc with Connector DB9 from Schlib1.SchLib
+Replace Part J3 Header 6 in F:\formula\BRT-UTC\UTC.SchDoc with Header 6 from Miscellaneous Connectors.IntLib
+Replace Part J4 Conn 5 (PLS) in F:\formula\BRT-UTC\UTC.SchDoc with Conn 5 (PLS) from BRT_Components.SchLib
+Replace Part J5 Connector USB 2.0 Type-C in F:\formula\BRT-UTC\UTC.SchDoc with Connector USB 2.0 Type-C from BRT_Components.SchLib
+Replace Part R1 Res 62R (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Res 62R (0603) from BRT_Components.SchLib
+Replace Part R2 Res 3.9k (0805) in F:\formula\BRT-UTC\UTC.SchDoc with Res 3.9k (0805) from BRT_Components.SchLib
+Replace Part R3 Res 62R (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Res 62R (0603) from BRT_Components.SchLib
+Replace Part R4 Res 62R (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Res 62R (0603) from BRT_Components.SchLib
+Replace Part R5 Res 62R (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Res 62R (0603) from BRT_Components.SchLib
+Replace Part R6 Res 4.7k (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Res 4.7k (0603) from BRT_Components.SchLib
+Replace Part R7 Res 4.7k (0603) in F:\formula\BRT-UTC\UTC.SchDoc with Res 4.7k (0603) from BRT_Components.SchLib
+Replace Part SB1 Circuit Breaker in F:\formula\BRT-UTC\UTC.SchDoc with Circuit Breaker from BRT_Components.SchLib
+Replace Part SB2 Circuit Breaker in F:\formula\BRT-UTC\UTC.SchDoc with Circuit Breaker from BRT_Components.SchLib
+Replace Part T1 ACT45B in F:\formula\BRT-UTC\UTC.SchDoc with ACT45B from BRT_Components.SchLib
+Replace Part T2 ACT45B in F:\formula\BRT-UTC\UTC.SchDoc with ACT45B from BRT_Components.SchLib
+Replace Part U1 LDO 3.3V [MCP] in F:\formula\BRT-UTC\UTC.SchDoc with LDO 3.3V [MCP] from BRT_Components.SchLib
+Replace Part U2 STM32F105RCT6 in F:\formula\BRT-UTC\UTC.SchDoc with STM32F105RCT6 from BRT_Components.SchLib
+Replace Part U3 CAN Transceiver [MCP2551] in F:\formula\BRT-UTC\UTC.SchDoc with CAN Transceiver [MCP2551] from BRT_Components.SchLib
+Replace Part U4 CAN Transceiver [MCP2551] in F:\formula\BRT-UTC\UTC.SchDoc with CAN Transceiver [MCP2551] from BRT_Components.SchLib
+Replace Part U5 MAX 3232 in F:\formula\BRT-UTC\UTC.SchDoc with MAX 3232 from Schlib1.SchLib
+Replace Part Y1 Crystal 8MHz SMD in F:\formula\BRT-UTC\UTC.SchDoc with Crystal 8MHz SMD from BRT_Components.SchLib

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J5-B1
+Removed Pin From Net: NetName=+5V Pin=J5-B9
+Removed Pin From Net: NetName=GND Pin=J5-B12
+Change Component Comment : Designator=J5 Old Comment=USB New Comment=USB Type C 2.0 16 pin
+Change component parameters: Designator = "J5" ("J5"); Footprint = "USB TYPE-C 16pin"; UniqueID = "\KCITSWBM" ("\KCITSWBM")

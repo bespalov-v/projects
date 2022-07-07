@@ -1,0 +1,95 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.35.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Bespalov Vladimir, BMSTU, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.35.0.2
+Toolchain Path:  F:\Keil\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.35.0.2
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.9.0
+Dialog DLL:      TCM.DLL V1.53.0.0
+ 
+<h2>Project:</h2>
+F:\formula\ams_internal_new\MDK-ARM\ams_internal_new.uvprojx
+Project File Date:  09/20/2021
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'F:\Keil\ARM\ARMCC\Bin'
+Build target 'ams_internal_new'
+assembling startup_stm32f103xb.s...
+compiling main.c...
+../Core/Src/main.c(63): error:  #18: expected a ")"
+  void Transmit_16bit_command(uint16_t &command) //transmits binary formatted char array through SPI
+../Core/Src/main.c(63): error:  #141-D: unnamed prototyped parameters not allowed when body is present
+  void Transmit_16bit_command(uint16_t &command) //transmits binary formatted char array through SPI
+../Core/Src/main.c(66): warning:  #223-D: function "strtol" declared implicitly
+  	result = strtol(data, NULL, 2);
+../Core/Src/main.c(66): error:  #20: identifier "data" is undefined
+  	result = strtol(data, NULL, 2);
+../Core/Src/main.c(65): warning:  #550-D: variable "result"  was set but never used
+  	uint16_t result;
+../Core/Src/main.c(145): warning:  #223-D: function "strtol" declared implicitly
+  	comm = strtol(WRCFG, NULL, 2);
+../Core/Src/main.c(146): error:  #167: argument of type "uint16_t *" is incompatible with parameter of type "uint8_t *"
+  	HAL_SPI_Transmit(&hspi2, &comm , 16, 100);
+../Core/Src/main.c: 3 warnings, 4 errors
+compiling stm32f1xx_it.c...
+compiling stm32f1xx_hal_msp.c...
+compiling stm32f1xx_hal_gpio_ex.c...
+compiling stm32f1xx_hal_adc_ex.c...
+compiling stm32f1xx_hal_adc.c...
+compiling stm32f1xx_hal.c...
+compiling stm32f1xx_hal_rcc_ex.c...
+compiling stm32f1xx_hal_gpio.c...
+compiling stm32f1xx_hal_rcc.c...
+compiling stm32f1xx_hal_cortex.c...
+compiling stm32f1xx_hal_dma.c...
+compiling stm32f1xx_hal_pwr.c...
+compiling stm32f1xx_hal_exti.c...
+compiling stm32f1xx_hal_flash_ex.c...
+compiling stm32f1xx_hal_flash.c...
+compiling stm32f1xx_hal_tim.c...
+compiling stm32f1xx_hal_can.c...
+compiling stm32f1xx_hal_spi.c...
+compiling stm32f1xx_hal_tim_ex.c...
+compiling system_stm32f1xx.c...
+"ams_internal_new\ams_internal_new.axf" - 4 Error(s), 3 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.8.0.pack
+                ARM.CMSIS.5.8.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.5.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.3.0.pack
+                Keil.STM32F1xx_DFP.2.3.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_ams_internal_new
+  C:\Users\Balodya\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include
+  C:\Users\Balodya\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.3.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.5.0
+      Include file:  CMSIS\Core\Include\tz_context.h
+Target not created.
+Build Time Elapsed:  00:00:22
+</pre>
+</body>
+</html>
